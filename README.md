@@ -15,5 +15,3 @@ This is a simple project that demonstrates the implementation of dark mode suppo
 - [Next.js](https://nextjs.org/) - A React framework
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for styling
 - TypeScript (TSX) - Type-safe JavaScript with support for React
-
-# Yasin Oruc
