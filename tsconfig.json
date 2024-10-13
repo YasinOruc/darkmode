@@ -27,7 +27,12 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    "baseUrl": ".",                // Add this line
+    "paths": {                      // Add this block for alias
+      "@/*": ["./*"],
+      "@/components/*": ["./components/*"]
+    }
   },
   "include": [
     "next-env.d.ts",
